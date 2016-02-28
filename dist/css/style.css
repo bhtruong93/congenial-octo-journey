@@ -1,0 +1,91 @@
+.btns {
+  border-radius: 3px !important;
+}
+
+#firstPage {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img {
+  height: 320px;
+  width: 568px;
+  padding: 20px;
+}
+
+.btns {
+  margin-top: 20px;
+  color: white;
+  border-radius: 50%;
+  border: 2px solid white;
+
+  -webkit-transition: border-color 0.5s ease;
+    -moz-transition: border-color 0.5s ease;
+      -o-transition: border-color 0.5s ease;
+      -ms-transition: border-color 0.5s ease;
+        transition: border-color 0.5s ease;
+  -webkit-transition: background-color 0.5s ease;
+    -moz-transition: backgroun-color 0.5s ease;
+      -o-transition: backgroun-color 0.5s ease;
+      -ms-transition: background-color 0.5s ease;
+        transition: background-color 0.5s ease;
+}
+
+.btns:hover {
+  color: white;
+  border-color: #22A39F;
+  background-color: #22A39F;
+}
+
+
+a:link{
+  color:white;
+}
+a:visited{
+  color:white;
+}
+a:hover{
+  color:white;
+}
+a:focus{
+  color:white;
+}
+a:active{
+  color:white;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.button {
+  background: #2469A3;
+}
+
+.bottomBorder {
+  border-bottom: 1px solid #E3E4E4;
+}
+
+.skinny {
+  font-weight: 100;
+}
+
+.headerColor {
+  color: #22A39F;
+}
+
+.paddingB20 {
+  padding-bottom: 20px;
+}
+
+.white {
+  color: white;
+}
+
+h1 {
+  color: #22A39F;
+  font-size: 50px;
+  font-weight: 100;
+}
